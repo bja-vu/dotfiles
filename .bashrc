@@ -12,4 +12,4 @@ source ~/.local/share/omarchy/default/bash/rc
 
 [[  $- == *i*  ]] && fastfetch
 
-export PATH="$HOME/bin:$PATH"
+export PATH="$HOME/scripts:$PATH"
