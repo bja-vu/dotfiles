@@ -13,3 +13,5 @@ source ~/.local/share/omarchy/default/bash/rc
 [[  $- == *i*  ]] && fastfetch
 
 export PATH="$HOME/scripts:$PATH"
+
+alias bashrc='nvim ~/dotfiles/.bashrc'
